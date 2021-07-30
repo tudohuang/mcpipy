@@ -124,7 +124,7 @@ tower(keepStartX,groundY, keepStartZ,keepWidth, 16, 17, 15, distribution)
 
 # moat
 if len(sys.argv) <= 1 or sys.argv[1][0] != 'n':
-    mc.postToChat("妙哉 護城河蓋好了")
+    mc.postToChat("妙哉 護城河蓋好了 XDXD")
     moatStartX = pos.x - 12
     moatStartZ = pos.z - 12
     moatInnerSize = wallSize+24
